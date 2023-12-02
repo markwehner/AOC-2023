@@ -1,4 +1,4 @@
-with open("prod.data", "r") as working_data:
+with open("part1-prod.data", "r") as working_data:
     # Initialize a variable to hold our running total
     line_sum = 0
     for line in working_data:
