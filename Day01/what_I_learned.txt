@@ -1,0 +1,3 @@
+Learned
+
+I can use .isdigit method to test if a string is a digit
